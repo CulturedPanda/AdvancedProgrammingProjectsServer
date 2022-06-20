@@ -7,8 +7,10 @@ options screen - only things that were not implemented or did not exist in the w
 These affect nothing that regards the API defined in assignment 2 or the web client.
 
 # `Submitters`:
-Yuval Uner, ID: 322558842, Github: OddPanda.\
-Nadav Elgrabli, ID: 316082791, Github: ZycleXx.
+Yuval Uner, Github: OddPanda.\
+Nadav Elgrabli, Github: ZycleXx.\
+As the repository was made public according to the instructions sent on the 19/06/2020,
+our IDs were removed from here and only kept in the submitted txt file.
 
 # `Dependencies`:
 ### `Frontend`
